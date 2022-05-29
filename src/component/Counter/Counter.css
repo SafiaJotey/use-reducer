@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  padding: 5px 20px;
+  margin: 5px;
+}
+.btnContainer {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
