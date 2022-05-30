@@ -1,10 +1,10 @@
 import './App.css';
-import Contacts from './component/Contacts/Contacts';
+import Todos from './component/Todos/Todos';
 
 function App() {
   return (
     <div className="App">
-      <Contacts />
+      <Todos />
     </div>
   );
 }
